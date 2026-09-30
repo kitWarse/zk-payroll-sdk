@@ -221,3 +221,6 @@ export * from "./cancellation";
 
 // Approved payroll revision protection
 export * from "./revision";
+
+// Employee Activation Prerequisite Checks (#636)
+export * from "./employees/activationPrerequisites";
